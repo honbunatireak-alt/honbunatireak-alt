@@ -1,4 +1,4 @@
-<h1>Hi there👋, I'm Reak</h1>
+<h1>Hi there, I'm Reak</h1>
 <p>I'm a uni student.</p>
 <h2>Skills and Technologies</h2>
 <p><h3>Programing language</h3><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a></p>
