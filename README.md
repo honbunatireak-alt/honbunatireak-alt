@@ -1,5 +1,5 @@
-<h1>Hi there, I'm Reak</h1>
-<p>I'm a uni student.</p>
+<h1>Hi there</h1>
+<p>I'm Reak. A uni student at Institute of Science and Technology Advance Development - ISTAD.</p>
 <h2>Skills and Technologies</h2>
 <p><h3>Programing language</h3><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a></p>
 <p><h3>Fronted</h3></p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
