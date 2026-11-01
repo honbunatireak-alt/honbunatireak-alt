@@ -8,7 +8,7 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/honbunatireak-alt/honbunatireak-alt/snake-output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/honbunatireak-alt/honbunatireak-alt/snake-output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/honbunatireak-alt/honbunatireak-alt/snake-output/snake.svg" />
-  <img data-importer="snake" src="https://raw.githubusercontent.com/honbunatireak-alt/honbunatireak-alt/snake-output/snake.svg" alt="Snake animation" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/honbunatireak-alt/honbunatireak-alt/snake-output/snake.svg" />
 </picture>
